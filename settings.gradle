@@ -1,0 +1,4 @@
+rootProject.name = 'maximums-samples-v2'
+include 'spring-boot-mongodb-sample'
+include 'spring-boot-kafka-sample'
+
