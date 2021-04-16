@@ -1,7 +1,0 @@
-kafka.bootstrapAddress: localhost:9092
-
-topic.name:
-  product: product
-  filtered: filtered
-  message: arun
-  partitioned: partitioned
